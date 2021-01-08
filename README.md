@@ -1,16 +1,16 @@
-### Hi there 👋
-
+### Hi there <developers/> 👋
+My name is Davies and i'm a full stack web developer. I love technology and new innovations!
 <!--
 **davies-maina/davies-maina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on [nbiecomm](https://github.com/davies-maina/nbiEcomm)
+- 🌱 I’m currently learning everything 😉
+- 👯 I’m looking to collaborate on anything but taking over the world
+
+- 💬 Ask me about Astronomy
+- 📫 How to reach me: daviesmaina@outlook.com
+
+- ⚡ Fun fact: I like to look up the sky and wonder at our place in the stars
 -->
